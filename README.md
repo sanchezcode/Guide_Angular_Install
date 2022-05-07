@@ -1,5 +1,9 @@
 # Guide_Angular_Install
-   - INSTALACIÓN EN LINUX (UBUNTU 20.04.4 LTS Y 22.04 LTS) 
+
+Contenido:
+
+   - INSTALACIÓN EN WINDOWS (10 y 11)
+   - INSTALACIÓN EN LINUX (UBUNTU 20.04.4 LTS y 22.04 LTS)
 
 ________________________________________
 
